@@ -27,6 +27,8 @@ This project implements a stock price prediction model using Long Short-Term Mem
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/stock-price-prediction.git
+```
+```bash
 cd stock-price-prediction
 ```
 
