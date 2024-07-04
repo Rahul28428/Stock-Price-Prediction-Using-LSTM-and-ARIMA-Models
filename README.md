@@ -47,11 +47,11 @@ stock_market_prediction.py
 - The script will download data, preprocess it, train the LSTM model, evaluate predictions with ARIMA, and visualize results using Plotly.
 
 ## Results
-- **LSTM Model Performance:**
+- **LSTM Model Performance:**<br>
   Training set MSE: 9.95 <br>
   Test set MSE: 36.63<br>
 
-- **ARIMA Model Metrics:**
+- **ARIMA Model Metrics:**<br>
   AIC: 10231.79<br>
   BIC: 10395.04<br>
 
