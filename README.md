@@ -48,12 +48,12 @@ stock_market_prediction.py
 
 ## Results
 - **LSTM Model Performance:**
-  Training set MSE: 9.95
-  Test set MSE: 36.63
+  Training set MSE: 9.95 <br>
+  Test set MSE: 36.63<br>
 
 - **ARIMA Model Metrics:**
-  AIC: 10231.79
-  BIC: 10395.04
+  AIC: 10231.79<br>
+  BIC: 10395.04<br>
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
